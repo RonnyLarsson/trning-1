@@ -1,0 +1,29 @@
+{
+    "name": "Tärning 1",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.1.56",
+        "tag": "v1.1.56",
+        "commits": "https://github.com/Microsoft/pxt-microbit/commits/6ffd8aeea09a5f96f0457587248153ec7fd7f28d",
+        "target": "5.0.12",
+        "pxt": "4.1.5",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
